@@ -17,7 +17,7 @@
 [HTML5 Boilerplate](https://html5boilerplate.com/) - Allows you to quickly build adaptable web apps or sites. 
 
 ### Design Tools
-[Adobe Kuler](https://color.adobe.com/create/color-wheel/) - A fantastic color resource. Provides multiple color values for a desired color swatch. User generated library of color pallets. Syncs with Photoshop, Illustrator, and other Adobe Products.
+[Adobe Color CC](https://color.adobe.com/create/color-wheel/) - A fantastic color resource. Provides multiple color values for a desired color swatch. User generated library of color pallets. Syncs with Photoshop, Illustrator, and other Adobe Products.
 
 [Colllor](http://colllor.com/) - Another color resource that will provide various values for a given color. 
 
