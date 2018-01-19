@@ -26,7 +26,7 @@ Shay Howe - [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - A book and
 
 Jon Suh - [Learn CSS Grid](http://learncssgrid.com/) - A written guide to CSS Grid. 
 
-Wes Bos - [Learn CSS Grid](https://cssgrid.io/) - A video guide developed by Wes Bos and sponsored by Mozilla. 
+Wes Bos - [CSS Grid](https://cssgrid.io/) - A brand new course from Wes Bos and sponsored by Mozilla. 
 
 ### JavaScript
 
