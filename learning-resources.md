@@ -12,6 +12,8 @@
 
 [Mozilla Developers Network](https://developer.mozilla.org/en-US/) - Documentation for just about everything.
 
+[Stack Overflow](https://stackoverflow.com/) - Developer community and forum. 
+
 [Udacity](https://www.udacity.com/) - Udacity partners with several large technology companies and offers a mix of free courses and paid "nanodegrees". 
 
 [Udemy](https://www.udemy.com/) - You'll need to pay for their courses, but they are very good. 
