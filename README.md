@@ -1,5 +1,6 @@
-
-<img align="center" width="50%" src="images/dev-toolkit-logo.png" alt="Dev Toolkit Logo">
+<div align="center">
+  <img width="50%" src="images/dev-toolkit-logo.png" alt="Dev Toolkit Logo">
+</div>
 <h1 align="center">The Dev Toolkit</h1>
 <h6 align="center">The Dev Toolkit is a compiliation of resources for people learning web development, or anyone who is looking for development resources. A general description of the content can be found below:</h6>
 
