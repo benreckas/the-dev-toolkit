@@ -21,6 +21,8 @@
 
 [Colllor](http://colllor.com/) - Another color resource that will provide various values for a given color. 
 
+[Devicon](http://konpa.github.io/devicon/) - Devicon is a set of icons representing programming languages, designing & development tools.
+
 [Favicon Generator](https://www.favicon-generator.org/) - Upload a local image and this will generate a zip file of the image in various sizes suitable for favicons. 
 
 [Font Awesome](http://fontawesome.io/) - Free scalable vector icons. 
