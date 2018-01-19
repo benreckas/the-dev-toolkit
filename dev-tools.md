@@ -8,10 +8,10 @@
 
 [JSFiddle](https://jsfiddle.net/) - Similar to CodePen, but oriented more towards JavaScript.
 
-### Cross-browser Compatability 
-[Can I Use](https://caniuse.com/) - Check CSS property compatability across various browsers. 
+### Cross-browser Compatibility 
+[Can I Use](https://caniuse.com/) - Check CSS property compatibility across various browsers. 
 
-[JavaScript Compatability Table](http://kangax.github.io/compat-table/es6/) - Check if the newest JS Syntax will work in various browsers. 
+[JavaScript Compatibility Table](http://kangax.github.io/compat-table/es6/) - Check if the newest JS Syntax will work in various browsers. 
 
 ### Boilerplates
 [HTML5 Boilerplate](https://html5boilerplate.com/) - Allows you to quickly build adaptable web apps or sites. 
