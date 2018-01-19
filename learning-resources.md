@@ -58,9 +58,9 @@ Udemy - [The Complete Developers Guide to MongoDB](https://www.udemy.com/the-com
 
 Udemy - [The Complete Node.js Developer Course (2nd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2/) - Learn Node.js by building real-world applications with Node, Express, MongoDB, Mocha, and more!
 
-YouTube - [Mean Stack Front to Back](https://www.youtube.com/playlist?list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ) - Build a MEAN stack application with Angular 2 using token based authentication.
-
 Udemy - [Node.js, Express & MongoDB Dev to Deployment](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/) - Learn by example building & deploying real-world Node.js applications from absolute scratch.
+
+YouTube - [Mean Stack Front to Back](https://www.youtube.com/playlist?list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ) - Build a MEAN stack application with Angular 2 using token based authentication.
 
 ### Git / Workflow
 [Basic Git Commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html) - Here is a list of some basic Git commands to get you going with Git.
