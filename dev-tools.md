@@ -2,7 +2,7 @@
 ###### This is a list of online tools that can be used for development. Everything from free code editors to design tools.
 
 ### Online Code Editors
-[Code Anywhere](https://codeanywhere.com/) - A free, more fully featured, code editor with termial and remote connection to GitHub.
+[Code Anywhere](https://codeanywhere.com/) - A free, more fully featured, code editor with terminal and remote connection to GitHub.
 
 [CodePen](https://codepen.io/) - A useful editor to build out small modules or experiment with vanilla HTML/CSS/JS.
 
@@ -22,6 +22,8 @@
 [Colllor](http://colllor.com/) - Another color resource that will provide various values for a given color.
 
 [Devicon](http://konpa.github.io/devicon/) - Devicon is a set of icons representing programming languages, designing & development tools.
+
+[Chrome Eye Dropper Extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfcckaX) - Eye Dropper is open source extension which allows you to pick colors from web pages, color picker and your personal color history.
 
 [Favicon Generator](https://www.favicon-generator.org/) - Upload a local image and this will generate a zip file of the image in various sizes suitable for favicons.
 
