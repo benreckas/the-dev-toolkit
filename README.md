@@ -1,11 +1,11 @@
-<h1 align="center">The Dev Toolkit</h1>
 <h1 align="center">
 	<img width="50%" src="images/dev-toolkit-logo.png" alt="Dev Toolkit Logo">
 	<br>
 	<br>
 </h1>
-
-###### The Dev Toolkit is a compiliation of resources for people learning web development, or anyone who is looking for development resources. A general description of the content can be found below:
+<h1 align="center">The Dev Toolkit</h1>
+<br>
+<h6 align="center">The Dev Toolkit is a compiliation of resources for people learning web development, or anyone who is looking for development resources. A general description of the content can be found below:</h6>
 
 [Blogs & Articles](https://github.com/benreckas/the-dev-toolkit/blob/master/blogs-and-articles.md) - A list of developers, blogs, and articles to help you find knowledge and inspiration.
 
