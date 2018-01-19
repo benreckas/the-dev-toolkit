@@ -1,5 +1,5 @@
 # Blogs & Articles
-A list of developers, blogs, and articles to help you find knowledge and inspiration. 
+###### A list of developers, blogs, and articles to help you find knowledge and inspiration. 
 
 [Awwwards](https://www.awwwards.com/) - The awards of design, creativity and innovation on the internet.
 
