@@ -1,3 +1,2 @@
-#JavaScript
+# JavaScript Notes
 
-###Ben Reckas
