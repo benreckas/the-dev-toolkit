@@ -23,6 +23,8 @@
 
 [Devicon](http://konpa.github.io/devicon/) - Devicon is a set of icons representing programming languages, designing & development tools.
 
+[Chrome Eye Dropper Extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfcckaX) - Eye Dropper is open source extension which allows you to pick colors from web pages, color picker and your personal color history.
+
 [Favicon Generator](https://www.favicon-generator.org/) - Upload a local image and this will generate a zip file of the image in various sizes suitable for favicons. 
 
 [Font Awesome](http://fontawesome.io/) - Free scalable vector icons. 
