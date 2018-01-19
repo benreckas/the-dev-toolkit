@@ -31,7 +31,7 @@
 
 [Linear Gradients](http://westciv.com/tools/gradients/) - Linear gradient generator.
 
-[Toptal](https://www.toptal.com/) - Free, easy to download, background textures. 
+[Toptal](https://www.toptal.com/designers/subtlepatterns/) - Free, easy to download, background textures. 
 
 [Unsplash](https://unsplash.com/) - Beautiful, royalty-free photos. 
 
