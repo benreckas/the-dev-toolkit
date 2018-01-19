@@ -1,4 +1,5 @@
 # Learning Resources
+###### A list of web development learning resources for a variety of languages and technologies. 
 
 ### Web Docs & Schools
 [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
