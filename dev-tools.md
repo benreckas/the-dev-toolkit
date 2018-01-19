@@ -40,6 +40,6 @@
 [Web Gradients](https://webgradients.com/) - Library of gradients with one-click to copy CSS.
 
 ### Misc.
-[Keycode](http://keycode.info/) - Press any key to get the JavaScript event keycode for that key.
-
 [Javascript Array Explorer](https://sdras.github.io/array-explorer/) - Find the array method you need without digging through the docs.
+
+[Keycode](http://keycode.info/) - Press any key to get the JavaScript event keycode for that key.
