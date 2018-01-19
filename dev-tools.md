@@ -2,11 +2,11 @@
 This is a list of online tools that can be used for development. Everything from free code editors to design tools. 
 
 ### Online Code Editors
+[Code Anywhere](https://codeanywhere.com/) - A free, more fully featured, code editor with termial and remote connection to GitHub.
+
 [CodePen](https://codepen.io/) - A useful editor to build out small modules or experiment with vanilla HTML/CSS/JS. 
 
 [JSFiddle](https://jsfiddle.net/) - Similar to CodePen, but oriented more towards JavaScript.
-
-[Code Anywhere](https://codeanywhere.com/) - A free, more fully featured, code editor with termial and remote connection to GitHub.
 
 ### Cross-browser Compatability 
 [Can I Use](https://caniuse.com/) - Check CSS property compatability across various browsers. 
@@ -21,19 +21,19 @@ This is a list of online tools that can be used for development. Everything from
 
 [Colllor](http://colllor.com/) - Another color resource that will provide various values for a given color. 
 
-[Google Fonts](https://fonts.google.com/) - Free font library that will easily generate HTML links or CSS imports.
+[Favicon Generator](https://www.favicon-generator.org/) - Upload a local image and this will generate a zip file of the image in various sizes suitable for favicons. 
 
 [Font Awesome](http://fontawesome.io/) - Free scalable vector icons. 
 
-[Unsplash](https://unsplash.com/) - Beautiful, royalty-free photos. 
-
-[Toptal](https://www.toptal.com/) - Free, easy to download, background textures. 
-
-[Web Gradients](https://webgradients.com/) - Library of gradients with one-click to copy CSS.
+[Google Fonts](https://fonts.google.com/) - Free font library that will easily generate HTML links or CSS imports.
 
 [Linear Gradients](http://westciv.com/tools/gradients/) - Linear gradient generator.
 
-[Favicon Generator](https://www.favicon-generator.org/) - Upload a local image and this will generate a zip file of the image in various sizes suitable for favicons. 
+[Toptal](https://www.toptal.com/) - Free, easy to download, background textures. 
+
+[Unsplash](https://unsplash.com/) - Beautiful, royalty-free photos. 
+
+[Web Gradients](https://webgradients.com/) - Library of gradients with one-click to copy CSS.
 
 ### Misc.
 [Keycode](http://keycode.info/) - Press any key to get the JavaScript event keycode for that key. 
