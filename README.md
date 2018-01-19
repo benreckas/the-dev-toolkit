@@ -1,3 +1,3 @@
-# code-notes
+# The Dev Toolkit
 
-My code notes and other resources for various languages. 
+The Dev Toolkit is a compiliation of resources for people learning web development, or anyone who is looking for development resources.
