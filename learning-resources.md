@@ -2,6 +2,8 @@
 ###### A list of web development learning resources for a variety of languages and technologies. 
 
 ### Web Docs & Schools
+[Awesome List](https://github.com/sindresorhus/awesome) - A gigantic open source resource list. 
+
 [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 
 [Code School](https://www.codeschool.com/) - The interactive learning destination for aspiring and experienced developers.
@@ -15,6 +17,8 @@
 [Stack Overflow](https://stackoverflow.com/) - Developer community and forum. 
 
 [Udacity](https://www.udacity.com/) - Udacity partners with several large technology companies and offers a mix of free courses and paid "nanodegrees". 
+
+[Udacity - Free Course List](https://github.com/mikesprague/udacity-nanodegrees/blob/master/README.md) - If you don't have the money, and/or just don't want to pay for them, you can take many of the courses for free.
 
 [Udemy](https://www.udemy.com/) - You'll need to pay for their courses, but they are very good. 
 
