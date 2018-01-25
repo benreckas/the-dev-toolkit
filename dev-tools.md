@@ -1,7 +1,14 @@
 # Dev Tools
 ###### This is a list of online tools that can be used for development. Everything from free code editors to design tools.
 
-### Online Code Editors
+### Text Editors
+[Atom](https://atom.io/) - A free and open source text and source code editor developed by Github for macOS, Linux, and Windows
+
+[Visual Studio Code](https://code.visualstudio.com/) - A source code editor developed by Microsoft for Windows, Linux, and macOS. 
+
+[Brackets](http://brackets.io/) - Created by Adobe, an open-source editor written in HTML, CSS, and JavaScript with a focus on web development. 
+
+### Online Editors
 [Code Anywhere](https://codeanywhere.com/) - A free, more fully featured, code editor with terminal and remote connection to GitHub.
 
 [CodePen](https://codepen.io/) - A useful editor to build out small modules or experiment with vanilla HTML/CSS/JS.
@@ -34,17 +41,10 @@
 [Linear Gradients](http://westciv.com/tools/gradients/) - Linear gradient generator.
 
 [Toptal](https://www.toptal.com/designers/subtlepatterns/) - Free, easy to download, background textures.
+
 [Unsplash](https://unsplash.com/) - Beautiful, royalty-free photos.
 
 [Web Gradients](https://webgradients.com/) - Library of gradients with one-click to copy CSS.
-
-### Text Editors
-[Atom](https://atom.io/) - A free and open source text and source code editor developed by Github for macOS, Linux, and Windows
-
-[Visual Studio Code](https://code.visualstudio.com/) - A source code editor developed by Microsoft for Windows, Linux, and macOS. 
-
-[Brackets](http://brackets.io/) - Created by Adobe, an open-source editor written in HTML, CSS, and JavaScript with a focus on web development. 
-
 
 ### Misc.
 [Javascript Array Explorer](https://sdras.github.io/array-explorer/) - Find the array method you need without digging through the docs.
