@@ -67,6 +67,8 @@ Udemy - [The Complete Node.js Developer Course (2nd Edition)](https://www.udemy.
 
 Udemy - [Node.js, Express & MongoDB Dev to Deployment](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/) - Learn by example building & deploying real-world Node.js applications from absolute scratch.
 
+YouTube - [Build A Mean js App In 30 Minutes](https://www.youtube.com/watch?v=a-dn6k6Frq4) - Create a blog application with a complete user login and registration system, all in around 30 minutes. 
+
 YouTube - [Mean Stack Front to Back](https://www.youtube.com/playlist?list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ) - Build a MEAN stack application with Angular 2 using token based authentication.
 
 ### Git / Workflow
