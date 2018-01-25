@@ -75,24 +75,6 @@ YouTube - [Node.js Login System with Passport](https://www.youtube.com/watch?v=Z
 
 YouTube - [MongoDB in 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE&t=411y) - How to set up a MongoDB NoSQL database.  Learn the fundamentals and the syntax to create, read, update and delete documents/data.
 
-NODE.JS, EXPRESS & MONGODB COURSE:
-https://www.udemy.com/nodejs-express-...
-
-BECOME A PATRON: Show support & get perks!
-http://www.patreon.com/traversymedia
-
-ONE TIME DONATIONS:
-http://www.paypal.me/traversymedia
-
-COURSES & MORE INFO:
-http://www.traversymedia.com
-
-FOLLOW TRAVERSY MEDIA:
-http://www.facebook.com/traversymedia
-http://www.twitter.com/traversymedia
-http://www.instagram.com/traversymedia
-SHOW MORE
-
 ### Git / Workflow
 [Basic Git Commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html) - Here is a list of some basic Git commands to get you going with Git.
 
