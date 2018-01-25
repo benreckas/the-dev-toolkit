@@ -46,6 +46,9 @@
 
 [Web Gradients](https://webgradients.com/) - Library of gradients with one-click to copy CSS.
 
+### Command Line / Terminal
+[Ohh My ZSH](https://github.com/robbyrussell/oh-my-zsh) - A highly configurable, well supported, terminal framework. 
+
 ### Misc.
 [Javascript Array Explorer](https://sdras.github.io/array-explorer/) - Find the array method you need without digging through the docs.
 
