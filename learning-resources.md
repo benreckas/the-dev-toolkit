@@ -71,6 +71,10 @@ YouTube - [Build A Mean js App In 30 Minutes](https://www.youtube.com/watch?v=a-
 
 YouTube - [Mean Stack Front to Back](https://www.youtube.com/playlist?list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ) - Build a MEAN stack application with Angular 2 using token based authentication.
 
+YouTube - [Node.js Login System with Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA) - Login and registration application using Node.js, Express and Passport.
+
+YouTube - [MongoDB in 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE&t=411y) - How to set up a MongoDB NoSQL database.  Learn the fundamentals and the syntax to create, read, update and delete documents/data.
+
 ### Git / Workflow
 [Basic Git Commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html) - Here is a list of some basic Git commands to get you going with Git.
 
