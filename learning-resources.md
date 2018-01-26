@@ -28,6 +28,10 @@
 Shay Howe - [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - A book and online course from developer Shay Howe on beginning and advanced HTML & CSS.
 
 ### CSS
+[CSS Diner](http://flukeout.github.io/) - Learn how to select properly target CSS selectors.
+
+[Flexbox Defense](http://www.flexboxdefense.com/) - A tower defense game that teaches you the basics of Flexbox.
+
 [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS Flexbox.
 
 Jon Suh - [Learn CSS Grid](http://learncssgrid.com/) - A written guide to CSS Grid. 
