@@ -40,6 +40,8 @@
 
 [Linear Gradients](http://westciv.com/tools/gradients/) - Linear gradient generator.
 
+[Placeholder.com](https://placeholder.com/) - Generate quick and simple image placeholders for your project.
+
 [Toptal](https://www.toptal.com/designers/subtlepatterns/) - Free, easy to download, background textures.
 
 [Unsplash](https://unsplash.com/) - Beautiful, royalty-free photos.
