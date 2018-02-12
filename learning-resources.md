@@ -58,26 +58,33 @@ Watch and Code - [Practical JavaScript](https://watchandcode.com/p/practical-jav
 
 Wes Bos - [JavaScript 30](https://javascript30.com/) - A 30 day JavaScript challenge from developer Wes Bos. 
 
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - A great online book on the in's and out's of all things JavaScript. 
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - A great online book on the in's and out's of all things JavaScript.
 
-### MEAN STACK - Mongo DB, Express, Angular, Node
+### Angular
+
 Udemy - [Angular (Angular 2+) & NodeJS - The MEAN Stack Guide](https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/) - Learn how to connect your Angular 2/ Angular 5 Frontend with a NodeJS Backend by building a real Application.
 
 Udemy - [Angular Front to Back](https://www.udemy.com/angular-4-front-to-back/) - Master Angular 5 from the basics to building an advanced application with Firebase's Firestore as well as authentication.
 
-Udemy - [The Complete Developers Guide to MongoDB](https://www.udemy.com/the-complete-developers-guide-to-mongodb/) - Master MongoDB and Mongoose design with a test-driven approach.
+### Node / Express
 
 Udemy - [The Complete Node.js Developer Course (2nd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2/) - Learn Node.js by building real-world applications with Node, Express, MongoDB, Mocha, and more!
+
+YouTube - [Node.js Login System with Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA) - Login and registration application using Node.js, Express and Passport.
+
+### Mongo DB
+
+Udemy - [The Complete Developers Guide to MongoDB](https://www.udemy.com/the-complete-developers-guide-to-mongodb/) - Master MongoDB and Mongoose design with a test-driven approach.
+
+YouTube - [MongoDB in 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE&t=411y) - How to set up a MongoDB NoSQL database.  Learn the fundamentals and the syntax to create, read, update and delete documents/data.
+
+### MEAN STACK - Mongo DB, Express, Angular, Node
 
 Udemy - [Node.js, Express & MongoDB Dev to Deployment](https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/) - Learn by example building & deploying real-world Node.js applications from absolute scratch.
 
 YouTube - [Build A Mean js App In 30 Minutes](https://www.youtube.com/watch?v=a-dn6k6Frq4) - Create a blog application with a complete user login and registration system, all in around 30 minutes. 
 
 YouTube - [Mean Stack Front to Back](https://www.youtube.com/playlist?list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ) - Build a MEAN stack application with Angular 2 using token based authentication.
-
-YouTube - [Node.js Login System with Passport](https://www.youtube.com/watch?v=Z1ktxiqyiLA) - Login and registration application using Node.js, Express and Passport.
-
-YouTube - [MongoDB in 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE&t=411y) - How to set up a MongoDB NoSQL database.  Learn the fundamentals and the syntax to create, read, update and delete documents/data.
 
 ### Git / Workflow
 [Basic Git Commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html) - Here is a list of some basic Git commands to get you going with Git.
