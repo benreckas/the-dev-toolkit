@@ -1,4 +1,4 @@
-# Blogs & Articles
+# Blogs
 ###### A list of developers, blogs, and articles to help you find knowledge and inspiration.
 
 [Awwwards](https://www.awwwards.com/) - The awards of design, creativity and innovation on the internet.
@@ -22,3 +22,11 @@
 [Wes Bos](http://wesbos.com/) - Wes does a little bit of everything. And does them all really well.
 
 [12 Factor App](https://12factor.net/) - 12 factor methodology for building scalable apps.
+
+# Articles
+
+### Angular
+
+[Angular Documentation](https://angular.io/docs) - Official documentation from angular.io.
+
+[Understanding, creating and subscribing to observables in Angular](https://hackernoon.com/understanding-creating-and-subscribing-to-observables-in-angular-426dbf0b04a3) - Hackernoon article from Luuk Gruijs on Angular Observables.
