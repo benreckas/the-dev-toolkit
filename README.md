@@ -9,3 +9,5 @@
 [Dev Tools](https://github.com/benreckas/the-dev-toolkit/blob/master/dev-tools.md) - This is a list of online tools that can be used for development. Everything from free code editors to design tools.
 
 [Learning Resources](https://github.com/benreckas/the-dev-toolkit/blob/master/learning-resources.md) - A list of web development learning resources for a variety of languages and technologies.
+
+[Learn how to contribute](https://github.com/benreckas/the-dev-toolkit/blob/master/contributing.md) to The Dev Toolkit.
