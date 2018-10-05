@@ -8,6 +8,9 @@
 
 [Brackets](http://brackets.io/) - Created by Adobe, an open-source editor written in HTML, CSS, and JavaScript with a focus on web development. 
 
+### IDE
+[WebStorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development
+
 ### Online Editors
 [Code Anywhere](https://codeanywhere.com/) - A free, more fully featured, code editor with terminal and remote connection to GitHub.
 
